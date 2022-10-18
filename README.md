@@ -13,7 +13,10 @@ When I click the button to generate a password, then I am presented with a serie
 ![Screenshot of the alert popup](images/alert-popup.png)
 
 ### Prompts
-![Screenshots of the prompts of the project](images/lowercase-prompt.png) (images/uppercase-prompt.png) (images/number-prompt.png) (images/special-prompt.png) 
+![Screenshots of the lowercase prompt of the project](images/lowercase-prompt.png) 
+![Screenshots of the uppercase prompt of the project](images/uppercase-prompt.png)
+![Screenshots of the number prompt of the project](images/number-prompt.png)
+![Screenshots of the special prompt of the project](images/special-prompt.png) 
 
 ### PW Generated
 ![Screenshot of project with password generated](images/display-password.png)
